@@ -35,7 +35,7 @@ echo -e "\n"
 head ./INDIA/KERALA/TRIVENDRUM/.readme2
 
 
-# HINT3
+# HINT 3
 echo -e "\nYa, BALLALADEVA was indeed a great mathematician, before ruling Mahishmathi. \n\n"
 sleep 5s
 
@@ -44,7 +44,7 @@ ls -f ./MAHISHMATHI/BALLALADEVA/
 sleep 3s
 head ./MAHISHMATHI/BALLALADEVA/.readme3
 
-#HINT4
+#HINT 4
 echo -e "\nHONESTLY, I GOT STUCK HERE"
 sleep 2s
 echo -e "\nBUT I GOT THE PATTERN BY NOW, WHY NOT SEARCH FOR .README4 IN THE DIRECTORY?  \n\n"
@@ -92,7 +92,7 @@ sleep 5s
 
 head ./GAME_OF_THRONES/HOUSE\ TARGARION/.readme7
 
-echo -e "\n Permissions? Who cares? It worked. (I knew chmod +rwx would work)"
+echo -e "\n Permissions? Who cares? It worked. (I knew chmod +rwx could be use if at all was required)"
 sleep 5s
 
 # RESULTS
